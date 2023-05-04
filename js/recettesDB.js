@@ -463,13 +463,17 @@ export let recettesDB = [
       {
         user: "Aicha",
         rating: 4,
-        content: "Très bonne recette, mais un peu épicée pour moi.",
+        content:
+        "Très bonne recette, mais un peu épicée pour moi.",
       },
       {
         user: "Yassin",
         rating: 5,
-        content: "Délicieux ! Je recommande vivement.",
+        content:
+        "Délicieux ! Je recommande vivement.",
       },
     ],
   },
 ];
+
+

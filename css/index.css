@@ -503,7 +503,6 @@ h2 {
 #category .img_container img {
   width: 90%;
   height: 90%;
-
 }
 
 #category .container h3 {
@@ -533,7 +532,6 @@ h2 {
   height: 12.5rem;
 }
 
-
 /* end category */
 
 /* start recettes */
@@ -553,8 +551,7 @@ h2 {
     width: 65% !important;
     margin-bottom: 50px;
   }
-  .big_recette_container
-  {
+  .big_recette_container {
     height: 1500px !important;
   }
 }

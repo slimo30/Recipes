@@ -252,7 +252,7 @@ input:checked ~ header .navbar-toggler .bar:nth-child(3) {
     grid-template-columns: repeat(1, 1fr) !important;
   }
   .item {
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
   }
 }
